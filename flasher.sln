@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "flasher", "flasher\flasher.vcproj", "{0BDB6573-06F5-40E1-A395-B66C7E902516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDB6573-06F5-40E1-A395-B66C7E902516}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BDB6573-06F5-40E1-A395-B66C7E902516}.Debug|Win32.Build.0 = Debug|Win32
+		{0BDB6573-06F5-40E1-A395-B66C7E902516}.Release|Win32.ActiveCfg = Release|Win32
+		{0BDB6573-06F5-40E1-A395-B66C7E902516}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
